@@ -208,7 +208,15 @@ body{
     text-align: center;
     
 }
+.container-4 .box{
+    position: absolute;
+    left: 50%;
+    width: 600px;
+    height: 650px;
+    margin-left: -25%;
+}
 .faq-heading{
+    width: 600px;
     padding-top: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -221,7 +229,6 @@ body{
     border: 1px solid white;
     display: flex;
     justify-content: space-between;
-    margin-left: 450px;
     margin-bottom: .5em;
     
 }
@@ -232,7 +239,6 @@ body{
     font-size: 30px;
 }
 .box-2{
-    margin-left: 450px;
     width: 600px;
     padding: 1em;
     border: 1px solid white;
@@ -248,7 +254,6 @@ body{
 }
 
 .box-3{
-    margin-left: 450px;
     width: 600px;
     padding: 1em;
     border: 1px solid white;
@@ -264,7 +269,6 @@ body{
 }
 
 .box-4{
-    margin-left: 450px;
     width: 600px;
     padding: 1em;
     border: 1px solid white;
@@ -281,7 +285,6 @@ body{
 
 .box-5{
     width: 600px;
-    margin-left: 450px;
     padding: 1em;
     border: 1px solid white;
     display: flex;
@@ -296,7 +299,6 @@ body{
 }
 
 .box-6{
-    margin-left: 450px;
     width: 600px;
     padding: 1em;
     border: 1px solid white;
